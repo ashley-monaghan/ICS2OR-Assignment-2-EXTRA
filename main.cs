@@ -21,8 +21,8 @@ class Program
         a = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter length b (cm): ");
         b = Convert.ToInt32(Console.ReadLine());
-        
-        area = Math.PI *(a * b);
+
+        area = Math.PI * (a * b);
 
         Console.WriteLine("");
         Console.WriteLine("The area is: " + area + " cm². ");
